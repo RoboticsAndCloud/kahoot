@@ -36,3 +36,6 @@ AUTH0_CLIENT_SECRET=
 5. Install dependencies `npm i`
 6. Run migrations `npx prisma migrate dev`
 7. Start the Next.js server `npm run dev`
+
+## Example Questions
+https://www.toptal.com/developers/hastebin/raw/futufojege
