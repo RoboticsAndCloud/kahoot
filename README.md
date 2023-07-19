@@ -44,4 +44,4 @@ https://www.toptal.com/developers/hastebin/raw/futufojege
 ![Game Web and overview](https://github.com/RoboticsAndCloud/kahoot/blob/master/SummerCamp1.png)
 
 ## Demo Video on Youtube
-![Youtube](https://youtu.be/HhMATRF0cr0)
+https://youtu.be/HhMATRF0cr0
